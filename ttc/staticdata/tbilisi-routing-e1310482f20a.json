@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tbilisi-routing",
+  "private_key_id": "e1310482f20acda9eee5bd119f09e9613c3845f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTrZHgvmxyZJ0g\nXtRX697AH2eSc0Ngji5pfCYZrKhAo1u0Fk+iEz7O8hw53lnvSbKFF8ty5tlFw+dx\nFncGzWi7aPbdI0Opiv84obEKvAzVfemJy2kmmeCL4skza1TgoTv/M4NKfw32rF99\npCsDX5jbq6aqPTfDLqdDX3Kpu47ka9gmzfqP9ZeaaUtZRcJTT7lIwPen9jF4Bx13\nFGK162FoMLdtemv3tyskS7frXDrNW4QmVSuzRB16U3cWu/0fXeLu2BQvOrkHE3E7\nyX8C4VuvWCiGBjvp+zmLrEfQhICn7VdWDoL6ZyGAkkTK04JgHccuTDDVebc6BlDL\nCbZWTU9/AgMBAAECggEAPpGgp/8mRYVZiViEUUgPVYk4wbTyTBuRkIHYRrJ/ivtr\npC57yOisiNPNn7sUkazA5WECgwlJ7yQkkCZ7gbdP829ygJkrVs8ceWsQbsLkESRK\n6WX0hDVYDQymQJHuIUpO+D5kFxEj4mp//uSqkMBVLGVatPBBCwJePc5X75AW57Ig\nwcaRoOOjhgjRh1dePmIPFYMp+2Jtam4slbMGmN6PG87Wvz8bm9+U6pY2yIbj4E0K\n8ma+1C+rEqD6IKpAM8RKfKxq0LMe4atFrjf/9thVyquO08NHdLdvyx5x1mRV0PLJ\njN2V00HeXwnmkEtm1IqJbAbOQOHLujMVwv9eRR1x4QKBgQDJgPoTVEhf1enA75mX\n2m9/RTjdxWwpZ2OZ8VpF7GX3yRjnEOCb8TCk8Q8wdrJktDFSluBwIwSlhp5gtRyw\n35KIw+v4zTZuCq8OASiLjeY4KC5l1svZgaYgx51EC6R4xNSLToU3Typm3rzk0RsQ\ni/lUKcso7NoF7VH+aDXJmH6x8QKBgQC7nfz0TWAxlZFBaSOEZJvEVszyx5Yqkz89\n0tMfV4wbL+fItWxvZ4zxZ2GURfgibOgwOC1Vik5RpFOL6nJOuqZewmRAglBEHofj\nlFaQ1ilspf17xhUZMeao8hlZq1qOnDO0T4fekNziv1VpLMBMb0IlWMAb0Q7gA+iI\nW1ALpBiobwKBgEaCDv88eqauH0EXldMA6ArMmf1f210RhFSVk1TsRzHQ+BnCWhW2\n66KLhxkaL4n1U1zm1lnmpvWUiU6lkQiC8q9Qfv1sMSOIMYDg/uL2IBx+Ut3nryTI\nrOzDbFAnEsH/fa/RJeQYm2mrfsVCNgowMGo2xZPobNGuHQa8SDXmWk7BAoGANMZt\nOD9ntqru8CpmDkDKvED6Z7SS3ikLWhWqw585zw/7sC6wcOn88I73GOFRukVOTvoO\nboh4HWkPA0WQn+rLD864qpi9gVvhN7grXZSQlHpgwmdm2e56hr2LOfkEgScZODhC\n7O1s5O+TVAF9mkKVpbHAYFK/T25qA6lD6/Jd6UsCgYEAvhOYmmKcLhW66NBkH+oX\nUQI6xexGHWoPJyCEzbo9zreHLi4O2Z2PHr3Ot7WcAFZ9xy0/jr7lks6u51xuEjZJ\nX24eD/+9Z5LBLfSAT8HGySIaxQwK0Jua3X9NSEAVT0mrhuPHfqQQTgz5VVxfO77J\nvR6HLlTjZ1TsyNMaLg1Bw/8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "developer@tbilisi-routing.iam.gserviceaccount.com",
+  "client_id": "108289911321916887016",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/developer%40tbilisi-routing.iam.gserviceaccount.com"
+}
