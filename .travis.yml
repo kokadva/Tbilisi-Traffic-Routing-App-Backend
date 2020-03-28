@@ -1,0 +1,12 @@
+language: ruby
+
+branches:
+  only:
+    - master
+
+python:
+  - "3.6"
+
+script:
+  - gem install dpl
+  - dpl --skip-cleanup --provider=heroku --app=tbilisi-traffic-routing-backen --api-key=$HEROKU_API_KEY
