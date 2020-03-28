@@ -1,5 +1,3 @@
-import os
-
 from flask import Response
 from flask_cors import cross_origin
 from flask_app import app
@@ -45,7 +43,7 @@ def shutdown_session(exception=None):
 @cross_origin()
 @app.route('/', methods=['GET'])
 def home():
-    return "Tbilisi Traffic Routing App! (tbilisitrafficrouting@gmail.com)"
+    return "Tbilisi Traffic Routing App (tbilisitrafficrouting@gmail.com)"
 
 
 @cross_origin()

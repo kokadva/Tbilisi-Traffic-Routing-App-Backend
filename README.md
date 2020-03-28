@@ -51,7 +51,7 @@ traffic data which we gather just to have more fun. +_+
 3. Run `docker-compose up` to start the app and the database
 
 ### Frontend Repository:
-https://some.url.for.frontend.project.gihub.com
+https://github.com/kokadva/Tbilisi-Traffic-Routing-App-Frontend
 
 ### Authors:
 * Konstantine Dvalishvili konstantine.dvalishvil@gmail.com
