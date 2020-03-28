@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/kokadva/tbilisi-routing.svg?token=yDxn9zNRxpnup5E9sDUM&branch=master)](https://travis-ci.com/kokadva/tbilisi-routing)
+[![Build Status](https://travis-ci.com/kokadva/Tbilisi-Traffic-Routing-App-Backend.svg?branch=master)](https://travis-ci.com/kokadva/Tbilisi-Traffic-Routing-App-Backend)
 
 ### Tbilisi Traffic and Routing Based On Public Tranport
 
