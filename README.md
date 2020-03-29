@@ -33,13 +33,12 @@ traffic data which we gather just to have more fun. +_+
 * PostgreSQL
 * Docker/Docker-Compose
 * Geojson
-* Docker/Docker-Compose
 * Heroku
 * Travis CI
 
 ### How to run the app locally:
 1. Install Docker/Docker-Compose
-2. Run `docker-compose up` to start the database
+2. Run `docker-compose -f docker-compose-database.yml up` to start the database
 3. Install python 3.6+
 4. Create python virtual environment
 5. Install requirements by running `pip install -r requirements`
